@@ -4,10 +4,11 @@ Save/Load mod for Muck
 ## Installation
 
 Visit: https://muck.thunderstore.io/package/BepInEx/BepInExPack_Muck/ and download the latest release.
-
 Visit: https://muck.thunderstore.io/package/flarfo/SaveUtility/ and download the latest release.
 
-After you finish downloading the files go to the location you downloaded them in and extract the two zip folders.
+After you finish downloading the files go to the location you downloaded them in and extract the two zip folders:
+
+<img src="images/extractmods.png">
 
 Now navigate to your Muck game directory (C:\Program Files (x86)\Steam\steamapps\common\Muck by default). You can also find this folder through steam:
 
