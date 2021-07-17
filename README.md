@@ -8,7 +8,7 @@ Visit: https://muck.thunderstore.io/package/flarfo/SaveUtility/ and download the
 
 After you finish downloading the files go to the location you downloaded them in and extract the two zip folders:
 
-<img src="images/extractmods.png">
+<img src="images/extractmods.png" width="255">
 
 Now navigate to your Muck game directory (C:\Program Files (x86)\Steam\steamapps\common\Muck by default). You can also find this folder through steam:
 
